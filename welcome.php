@@ -1,0 +1,728 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBXZR8L');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Asuza, eSports, Gaming, Tournaments" />
+    <meta name="description" content="Enjoy Premium Esports tournaments and build a professional profile for youself" />
+    <title>Asuza</title>
+
+    <link rel="icon" href="img/favicon/favicon-1.png">
+
+    <!--font-awesome icons link-->
+    <link rel="stylesheet" href="landing/css/font-awesome.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="landing/css/bootstrap.min.css">
+    <link rel="stylesheet" href="landing/css/slick.css">
+    <link rel="stylesheet" href="landing/css/venobox.css">
+    <link rel="stylesheet" href="landing/css/lightbox.min.css">
+    <!--main style file-->
+    <link rel="stylesheet" href="landing/css/style.css">
+    <link rel="stylesheet" href="landing/css/responsive.css">
+    <link rel="stylesheet" href="landing/bootstrap-icons">
+    
+</head>
+
+<body id="darkmode"> 
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBXZR8L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+     <!-- HEADER AREA START -->
+     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top" id="navber">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Asuza<span>.beta</span></a>
+            <div class="menu-main" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto menu-item">
+                    <li class="nav-item">
+                        <a class="nav-link menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                    </li>
+                   
+                </ul>
+            </div>
+        </div>
+        <div class="custom-menubar">
+            <ul class="nav-link-block">
+                <li>
+                    <a href="" class="menu-link">Home</a>
+                </li>
+                <li>
+                    <a href="#about" class="menu-link">About</a>
+                </li>
+                <li>
+                    <a href="#blog" class="menu-link">Blog</a>
+                </li>
+                <li>
+                    <a href="#team" class="menu-link">Team</a>
+                </li>
+                <li>
+                    <a href="#join" class="menu-link">Community</a>
+                </li>
+            </ul>
+            <ul class="responsive-nav">
+            </ul>
+            <div class="menu-close">
+                <a class="hide-menu-btn"><i class="fa fa-times" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </nav>
+    <!-- HEADER AREA END -->
+
+    <!-- BANNER AREA START -->
+    <section id="banner">
+        <div class="backtotop">
+            <a href="#banner"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+        </div>
+        <div class="banner-arrow">
+            <i class="fa fa-angle-left arrow-al" aria-hidden="true"></i>
+            <i class="fa fa-angle-right arrow-ar" aria-hidden="true"></i>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-8 col-md-6 landscape-m-auto tab-m-auto banner-img">
+                    <img src="landing/images/banner.png" alt="banner-img" class="img-fluid">
+                </div>
+                <div class="col-lg-6 m-auto banner-txt">
+                    <div class="banner-main">
+                    <div class="banner-item">
+                            <h3>Find and Join Tournaments </h3>
+                            <p>Gain easy access to a varying range of Esports tournament in Nigeria and Africa.</p>
+                         
+                        </div>
+
+                    
+
+                    <div class="banner-item">
+
+                            <h3>Build your Professional Profile</h3>
+                            <p>Find and join your favorite team while building up a professional career </p>
+                            
+                        </div>
+
+                        <div class="banner-item">
+                            <h3>Tournament</h3>
+                            <h3>Management</h3>
+                            <p>Easily manage your Tournaments across different channels while putting your attention at the right place.</p>
+                           
+                        </div>
+
+                        <div class="banner-item">
+                            <h3>Monetization</h3>
+                            <p>Easily monetize your tournament and turn your team into <br>
+                                a proftable organisation through the automated sale of tickets, <br>
+                                entry fees and donations on our platform.</p>
+                       
+                        </div>
+
+                        <div class="banner-item">
+                            <h3>Job Openings</h3>
+                            <p>Easily find or get hired as a; <br>
+                            Player, Caster, Community Manager, Team Coach, Streamer etc..<br>
+</p>
+                         
+                        </div>
+    
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- BANNER AREA END -->
+
+    <!-- GAMES AREA START -->
+    <section id="games">
+        <div class="container game-line">
+            <div class="gl-one gl"></div>
+            <div class="gl-two gl"></div>
+            <div class="row game-pa">
+                <div class="col-lg-4 col-md-11 tab-m-auto">
+                    <div class="game-box">
+                        <span>Asuza</span>
+                        <h3>Featured Games</h3>
+                        <p></p>
+                        <!--<a href="#" class="main-btn">Browse More</a>-->
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="game-main">
+                        <div class="col-lg-4 game-item text-center">
+                            <div class="game-img">
+                                <img src="landing/images/game2.jpeg" alt="game-img" class="img-fluid">
+                               
+                            </div>
+                            <a href="#">Call of Duty</a>
+                        </div>
+                        <div class="col-lg-4 game-item text-center">
+                            <div class="game-img">
+                                <img src="landing/images/game1.jpeg" alt="game-img" class="img-fluid">
+                               
+                            </div>
+                            <a href="#">PUBG</a>
+                        </div>
+                        <div class="col-lg-4 game-item text-center">
+                            <div class="game-img">
+                                <img src="landing/images/game3.jpeg" alt="game-img" class="img-fluid">
+                               
+                            </div>
+                            <a href="#">Mobile Legends</a>
+                        </div>
+                        <div class="col-lg-4 game-item text-center">
+                            <div class="game-img">
+                                <img src="landing/images/game5.jpeg" alt="game-img" class="img-fluid">
+                               
+                            </div>
+                            <a href="#">FIFAe</a>
+                        </div>
+
+                        <div class="col-lg-4 game-item text-center">
+                            <div class="game-img">
+                                <img src="landing/images/game6.jpeg" alt="game-img" class="img-fluid">
+                               
+                            </div>
+                            <a href="#">Apex Legends</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- GAMES AREA END -->
+
+    <!-- ABOUT AREA START -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 heading">
+                    <h3>About</h3>
+                </div>
+            </div>
+            <div class="row about-pt">
+                <div class="col-lg-5 col-sm-9 m-sm-auto about-img">
+                    <div class="about-txt-overlay">
+                        <!--<h3 class="counter" data-counterup-time="2000" data-counterup-delay="30" data-counterup-beginat="1">12</h3>
+                        <span>Years of Leading</span> -->
+                    </div>
+                    <img src="landing/images/about.jpg" alt="about-img" class="img-fluid">
+                </div>
+                <div class="col-lg-7">
+                    <div class="about-txt">
+                        <span>Asuza</span>
+                        <h3>BUILD YOUR CAREER AS A PRO ESPORTS ATHLETE <b>.</b></h3>
+                        <p>Asuza is a tournament management platform committed to building up the Esports ecosystem in Nigeria and Africa by giving them easy access to tournaments to show off their skills including joining teams to build up their experience and succesful careers in the process. </p>
+                        <p class="mb-3">Start building your career as an Esports Pro Athlete by joining Teams and taking part in World Class Tournaments.</p>
+                        <!--<a href="#" class="main-btn">Explore More</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ABOUT AREA END -->
+
+    <!-- COUNTER AREA START 
+    <section id="counter">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-6 text-center">
+                    <div class="counter-item">
+                        <h3 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="20">0</h3>
+                        <span>K<b>.</b></span>
+                        <p>Registered Players</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 text-center">
+                    <div class="counter-item">
+                        <h3 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="20">0</h3>
+                        <span><b>.</b></span>
+                        <p>Tournaments Created</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 text-center">
+                    <div class="counter-item">
+                        <h3 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="20">0</h3>
+                        <span><b>.</b></span>
+                        <p>Teams</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 text-center">
+                    <div class="counter-item">
+                        <h3 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="20">0</h3>
+                        <span><b>.</b></span>
+                        <p> Organizations</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    !-- COUNTER AREA END -->
+
+
+
+    
+    <!-- Team AREA START -->
+    <section id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 heading">
+                    <h3>Team</h3>
+                </div>
+            </div>
+            <div class="row match-pa">
+                <div class="col-lg-12">
+                    <div class="match-main">
+                        <div class="col-lg-4">
+                            <div class="live-match-item">
+                                
+                                <div class="row match-text">
+                                <img src="landing/images/Team/tochi.png" alt="game-icon">
+                                </div>
+                                <div class="row match-text">
+                                    <div class="col-8 col-lg-8 lose">
+                                        <h3>Anyanwu Tochukwu</h3>
+                                    </div>
+                                    <div class="col-4 col-lg-4 text-left lose">
+                                        <h3> CEO</h3>
+                                    </div>
+                                </div>
+                                <div class="row match-action">
+                                    <div class="col-lg-12">
+                                        <a href="https://twitter.com/anyanwutochukw?s=20&t=QI1uYddKmY3uwpMoIbE7Iw" class="match-btn">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="live-match-item">
+                                
+                                <div class="row match-text">
+                                <img src="landing/images/Team/mrcl.png" alt="game-icon">
+                                </div>
+                                <div class="row match-text">
+                                    <div class="col-8 col-lg-8 lose">
+                                        <h3>Miracle Kelechi</h3>
+                                    </div>
+                                    <div class="col-4 col-lg-4 text-left lose">
+                                        <h3>Senior Developer</h3>
+                                    </div>
+                                </div>
+                                <div class="row match-action">
+                                    <div class="col-lg-12">
+                                        <a href="#" class="match-btn">Instagram <i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="live-match-item">
+                                
+                                <div class="row match-text">
+                                <img src="landing/images/Team/atoms.png" alt="game-icon">
+                                </div>
+                                <div class="row match-text">
+                                    <div class="col-8 col-lg-8 lose">
+                                        <h3>Joshua Atoms</h3>
+                                    </div>
+                                    <div class="col-4 col-lg-4 text-left lose">
+                                        <h3>Team Lead</h3>
+                                    </div>
+                                </div>
+                                <div class="row match-action">
+                                    <div class="col-lg-12">
+                                        <a href="https://twitter.com/josh_atoms?s=20&t=QRuXtRaBgXD2WdqxhN2nZQ" class="match-btn">Twitter <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="live-match-item">
+                                
+                                <div class="row match-text">
+                                <img src="landing/images/Team/pov.jpeg" alt="game-icon">
+                                </div>
+                                <div class="row match-text">
+                                    <div class="col-8 col-lg-8 lose">
+                                        <h3>Osiobe Providence</h3>
+                                    </div>
+                                    <div class="col-4 col-lg-4 text-left lose">
+                                        <h3>Sales and Product</h3>
+                                    </div>
+                                </div>
+                                <div class="row match-action">
+                                    <div class="col-lg-12">
+                                        <a href="https://www.instagram.com/rein_vorsehung/" class="match-btn">Instagram <i class="fa fa-" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                        <div class="col-lg-4">
+                            <div class="live-match-item">
+                                
+                                <div class="row match-text">
+                                <img src="landing/images/Team/jarvs.png" alt="game-icon">
+                                </div>
+                                <div class="row match-text">
+                                    <div class="col-8 col-lg-8 lose">
+                                        <h3>Egeonu Jarvis</h3>
+                                    </div>
+                                    <div class="col-4 col-lg-4 text-left lose">
+                                        <h3>Community Manager</h3>
+                                    </div>
+                                </div>
+                                <div class="row match-action">
+                                    <div class="col-lg-12">
+                                        <a href="https://www.instagram.com/anthonyjarvis_aj/" class="match-btn">Instagram <i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                    </div>
+                </div>
+            </div>
+                     <br />
+                     <br />
+                     
+                    
+            
+
+                     <div class="col-lg-12 text-center about-txt heading " id=blog>
+                    <h3>Blogs</h3>
+                </div>
+            
+            <div class="row match-pa0">
+                <div class="col-lg-6">
+                    <div class="match-item">
+                        <a href="single-blog">
+                                <div class="row">
+                                    <div class="col-lg-4 col-sm-4 winner blog-item">
+                                        <img src="landing/images/watch-bg.jpeg" alt="team-img" class = "img-">
+                                    </div>
+                                    <div class="col-lg-4 col-sm-4 text-center vs-txt">
+                                        <h3>About the Asuza Project </h3>
+                                    </div>
+                                
+                                </div>
+                            </a>
+                    </div>
+
+                   <!-- <div class="match-item">
+                    <a href="">
+                                <div class="row">
+                                    <div class="col-lg-4 col-sm-4 winner blog-item">
+                                        <img src="landing/images/subscribe.png" alt="team-img" >
+                                    </div>
+                                    <div class="col-lg-4 col-sm-4 text-center vs-txt">
+                                        <h3>What is Esports anyway?</h3>
+                                    </div>
+                                
+                                        </div>
+                                     </a>
+                                </div>-->
+                            </div>
+               
+                   
+                </div>
+            </div>
+        </div>
+
+        <br />
+<br />
+<br />
+
+
+
+        <!--<div class="col-lg-12 text-center about-txt">
+            
+                       <a href="blogs" class="main-btn">Browse More</a>
+
+                </div>-->
+        
+    </section>
+    <!-- MATCH AREA END -->
+           
+        </div>
+
+        <br />
+<br />
+<br />
+
+
+
+        
+    
+    
+     <br />
+
+    <!-- WATCH AREA START-->
+    
+<div class="col-lg-12 watch-item">
+
+<div class="video-overlay">
+<video width="400px" height="300px"
+        controls="controls"/>
+         
+        <source src="img/vid.mp4"
+            type="video/mp4">
+    </video>
+</div>
+</div>
+    
+
+                   <!-- <div class="video-overlay">
+                        
+                        <a class="venobox vbox-item" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=ClUFJlGBuME"><i class="fa fa-play" aria-hidden="true"></i></a>
+                    </div>
+                    <img src="landing/images/watch-bg.jpeg" alt="watch-img" class="img-fluid">
+                </div>
+    <!-- WATCH AREA END -->
+
+    <!-- BRAND AREA START 
+    <section id="brand">
+        <div class="container">
+            <div class="row">
+
+            <div class="col-lg-12 text-center about-text">
+                    <h3>Partners</h3>
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="brand-main">
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand2.png" alt="brand-img">
+                        </div>
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand4.png" alt="brand-img">
+                        </div>
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand3.png" alt="brand-img">
+                        </div>
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand2.png" alt="brand-img">
+                        </div>
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand4.png" alt="brand-img">
+                        </div>
+                        <div class="col-lg-3 text-center">
+                            <img src="images/brand3.png" alt="brand-img">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> 
+    - <!-BRAND AREA END -->
+
+    <!-- PLAYER AREA START 
+    <section id="player">
+        <div class="container">
+            <div class="row player-pa2">
+                <div class="col-lg-6 col-sm-12 player-txt">
+                    <h3>Recently Registered<b>.</b></h3>
+                </div>
+                <div class="col-lg-6 col-sm-7 m-sm-auto player-txt">
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-6 text-center">
+                            <h4 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="50">0</h4>
+                            <span></span>
+                            <p>Total Players</p>
+                        </div>
+                        <div class="col-lg-6 col-sm-6 text-center">
+                            <h4 class="counter" data-counterup-time="2500" data-counterup-delay="30" data-counterup-beginat="50">0</h4>
+                            <span></span>
+                            <p>eSports Teams</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+     PLAYER AREA END -->
+     
+<br />
+<br />
+<br />
+       <!-- FAQ AREA START -->
+       <section id="FAQ">
+        <div class="container">
+           
+            <div class="row about-pt">
+                
+                <div class="col-12">
+                    <div class="about-txt">
+                    <div class="col-lg-12 text-center about-txt heading" id=blog>
+                    <h3>Got a Question?</h3>
+                </div>
+    <br />
+                        <h3>What is Asuza <b>?</b></h3>
+                        <p>Asuza is a tournament management platform that enables eSports Organizations to manage their running tournaments and an efficient team management platform.
+                        Asuza strives to become the platform that will bring people into the emerging industry of professional gaming and help them develop successful careers within the space.
+                            </p>
+
+                            
+                
+
+                        <h3>How does it work <b>?</b></h3>
+                        <p>You can register as a Gamer or a Tournament Organization, as a Gamer you can create Teams and Join tournaments.
+                        As a Tournament organization you can host Tournaments and Invite teams or individuals to participate while tracking the progress of the Tourney with our provided tools.</p>  
+                        
+                        <h3>Major Features</h3>
+                        <p>Players can own a professional looking profile that will serve as their portfolio, think of LinkedIn but for gamers.
+                          Esports Organizations can manage their tournaments and gain access to useful data about their participants.
+                         Teams and Organizations can easily monetize and build stronger presence/relationships with their fanbase.</p>            
+                        <h3>Are my funds safe <b>?</b></h3>
+                        <p> With our platform you can easily manage your cash prize whether as a Team, Tourney Org. or individual. Using Paystack as our payment provider you are guaranteed that your funds are safe and withdrawal is easy.</p> 
+                        
+                        <h3>Why the Asuza Gaming Community <b>?</b></h3>
+                        <p>We built Asuza with gamers at the core of our hearts, to give you the best possible experience beyond what you have ever know, to give you the special tool you never knew you needed or wanted.
+
+
+Asuza will bring you to the limelight, your capabilities, your achievements once locked away on your device, only accessible to you and those close to you, who remained uninterested when you bragged about your victories and records(yea we’ve been there once lolz). 
+ </p>            
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FAQ AREA END -->
+
+
+    <!-- COMMUNITY AREA START -->
+    <section id="join">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="join-bg">
+                        <div class="row">
+                            <div class="col-lg-6 join-txt">
+                                <span>Let's Play Together</span>
+                                <h3>Join Asuza to become the next Pro Gamer Today!</h3>
+                                <p>let's help you build a successful career as a Pro Esports Athlete and take you to the global stage.</p>
+                               
+                              
+                                    <div class="footer-social">
+                                    <a href="https://discord.gg/MDCF8jrWm4" class="match-btn" target = "_blank">Discord <i class="fa-brands fa-discord" aria-hidden="true"></i></a>
+                                    <a href="https://chat.whatsapp.com/GNAYSeC6NLuDgdIwpu08oH" class="match-btn" target = "_blank">Whatsapp <i class="fa-brands fa-whatsapp" aria-hidden="true"></i></a>
+                                    <a href="https://t.me/+AQHvDJ0kQ_o2OWJk" class="match-btn" target = "_blank">Telegram <i class="fa-brands fa-telegram" aria-hidden="true"></i></a>
+                    </div>
+                   
+                            </div>
+                            <div class="col-lg-6 join-img">
+                                <img src="landing/images/join-bg.png" alt="join-img" class="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- COMMUNITY AREA END -->
+
+
+    <!-- SUBSCRIBE AREA START -->
+    <section id="subscribe">
+        <div class="container zindex">
+            <div class="row">
+                <div class="col-lg-6 col-md-8 subscribe-txt">
+                    <h3>Get the Latest news in your inbox from Asuza Gaming<b>.</b></h3>
+                </div>
+                <div class="col-lg-6 col-md-4 text-center">
+                
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+        <form name="contact" method="POST" data-netlify="true">
+          <div class="form-outline form-white mb-4">
+            <input type="text" id="formControlLg" placeholder="Your Email" class="form-control form-control-lg" />
+          </div>
+          <button type ="submit" class="subscribe-btn">Subscribe Now</button>
+    </form>
+          
+        </div>
+        <!--Grid column-->
+                  
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- SUBSCRIBE AREA END -->
+
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 footer-logo">
+                    <a href="welcome">Asuza<b>.</b></a>
+                    <p>Asuza brings Gamers in Africa together showing them that they are not alone in their virtual adventures and victories.
+    <br /><br />Asuza aims to reveal what the future holds for gaming to the un-initiated.
+                    </p>
+                    <div class="footer-social">
+                        <a href="https://www.linkedin.com/company/asuza-gaming/"target ="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/asuzagaming?s=20&t=gnKsoTysA1WwEDf1XzIkRQ" target ="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/asuza_gaming/" target = "_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="#" target = "_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a href="https://www.youtube.com/channel/UCcHhj6b0LwaQCGbQ5I5iyjA" target = "_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+    </section>
+                
+               
+                <!--<div class="col-lg-2 col-sm-4 footer-menu">
+                    <h3>Information</h3>
+                    <a href="" target="_blank">FAQ</a>
+                    <a href="" target="_blank">Community Guidelines</a>
+                    <a href="" target="_blank">Terms and Conditions</a>
+                    <a href="" target="_blank">Privacy Policy</a>
+                    <a href="https://wa.me/message/HYHMLEQMDY2VF1" target = "_blank">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- COPY_RIGHT AREA START -->
+    <section id="copy_right">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                 <div class="col-lg-6 col-sm-7 copy-right-txt">
+                            <p><i class="fa fa-copyright" aria-hidden="true">Asuza,</i> built with love by Crave Esports</p>
+                        </div>
+            </div>
+        </div>
+    </section>
+    <!-- COPY_RIGHT AREA END -->
+
+    
+
+    <!-- JavaScript -->
+    <script src="landing/js/jquery-3.3.1.min.js"></script>
+    <script src="landing/js/bootstrap.min.js"></script>
+    <script src="landing/js/slick.min.js"></script>
+    <script src="landing/js/venobox.min.js"></script>
+    <script src="landing/js/lightbox.min.js"></script>
+    <script src="landing/js/counterup.min.js"></script>
+    <script src="landing/js/waypoints.min.js"></script>
+    <script src="landing/js/custom.js"></script>
+    <script src="https://kit.fontawesome.com/2a2f3836ff.js" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
